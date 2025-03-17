@@ -3,5 +3,6 @@ public class exercise01 {
         System.out.println("welcome to computer science");
         System.out.println("Welcome to java");
         System.out.print("programming is fun");
+
     }
 }
