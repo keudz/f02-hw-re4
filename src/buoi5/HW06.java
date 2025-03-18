@@ -1,3 +1,5 @@
+package buoi5;
+
 import java.util.Scanner;
 
 public class HW06 {

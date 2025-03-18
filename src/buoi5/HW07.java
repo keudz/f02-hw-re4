@@ -1,4 +1,5 @@
-import java.io.File;
+package buoi5;
+
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
