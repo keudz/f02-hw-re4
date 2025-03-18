@@ -1,7 +1,5 @@
 package buoi8;
 
-import javax.swing.*;
-
 public class kiem_tra_xau_doi_xung {
     public static void main(String[] args) {
         String a = "aecoceoaaeceoaaeoceooceaoeoceooceoaaoeceoaecoea";
