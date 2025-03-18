@@ -1,4 +1,5 @@
-import javax.swing.*;
+package buoi4;
+
 import java.util.Scanner;
 
 public class Ex19 {
